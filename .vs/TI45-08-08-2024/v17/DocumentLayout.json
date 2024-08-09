@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|c:\\users\\emanuel.osilva1\\source\\repos\\ti45-08-08-2024\\ti45-08-08-2024\\colaboradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\colaboradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\ti45-08-08-2024\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\ti45-08-08-2024\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\ti45-08-08-2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{066D3B3A-481B-4C6D-8E4E-75FC382497F7}|TI45-08-08-2024\\TI45-08-08-2024.csproj|solutionrelative:ti45-08-08-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 390,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colaboradores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Colaboradores.cs",
+              "RelativeDocumentMoniker": "TI45-08-08-2024\\Colaboradores.cs",
+              "ToolTip": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Colaboradores.cs [Design]",
+              "RelativeToolTip": "TI45-08-08-2024\\Colaboradores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:30:54.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Produtos.cs",
+              "RelativeDocumentMoniker": "TI45-08-08-2024\\Produtos.cs",
+              "ToolTip": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Produtos.cs [Design]",
+              "RelativeToolTip": "TI45-08-08-2024\\Produtos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:29:48.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fornecedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Fornecedores.cs",
+              "RelativeDocumentMoniker": "TI45-08-08-2024\\Fornecedores.cs",
+              "ToolTip": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Fornecedores.cs [Design]",
+              "RelativeToolTip": "TI45-08-08-2024\\Fornecedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:22:54.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Form1.cs",
+              "RelativeDocumentMoniker": "TI45-08-08-2024\\Form1.cs",
+              "ToolTip": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Form1.cs [Design]",
+              "RelativeToolTip": "TI45-08-08-2024\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:17:26.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Clientes.cs",
+              "RelativeDocumentMoniker": "TI45-08-08-2024\\Clientes.cs",
+              "ToolTip": "C:\\Users\\emanuel.osilva1\\source\\repos\\TI45-08-08-2024\\TI45-08-08-2024\\Clientes.cs [Design]",
+              "RelativeToolTip": "TI45-08-08-2024\\Clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:02:35.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
